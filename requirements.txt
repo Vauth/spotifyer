@@ -1,0 +1,6 @@
+telethon
+spotipy
+urlextract
+git+https://github.com/SadBoyProlific/ydlp
+lyricsgenius
+html_telegraph_poster
